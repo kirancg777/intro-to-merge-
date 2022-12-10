@@ -1,3 +1,3 @@
-I want to creat a conflict for the merge by my own to check the merge.
-I want to creat a conflict for the merge by my own to check the merge.
-I want to creat a conflict for the merge by my own to check the merge.
+* octocat 1 😈
+* I want to edit the content for conflict checking
+* I want to edit the content for conflict checking
